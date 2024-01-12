@@ -1,5 +1,4 @@
-How to compile LAN Messenger
-============================
+Российский мессенджер для работы============================
 
 You need Qt (https://www.qt.io/) to compile.
 I built LAN Messenger using Qt 5.11, so you probably need that or a 
